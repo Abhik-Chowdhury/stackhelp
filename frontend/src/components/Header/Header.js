@@ -4,7 +4,7 @@ import "./css/Header.css";
 import { Link } from 'react-router-dom'
 import SearchIcon from '@mui/icons-material/Search';
 import InboxIcon from '@mui/icons-material/Inbox';
-import varta from '../../assets/varta.ico'
+import varta from '../../assets/varta.png'
 import { Avatar } from '@mui/material';
 import { useSelector } from 'react-redux';
 import { selectUser } from '../../features/userSlice';

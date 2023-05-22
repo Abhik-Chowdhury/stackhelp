@@ -63,7 +63,6 @@ function Index() {
         <>
         <div className='auth'>
             <div className='auth-container'>
-                <p>Add another way to log in using any of the following services.</p>
                 <div className='sign-options'>
                     <div onClick={handleSignInGoogle} className='single-option'>
                         <img src={google}

@@ -38,10 +38,10 @@ function Sidebar() {
                     </div>
 
                     <div className='sidebar-option'>
-                        <p>FIND A JOB</p>
+                        <p>FIND YOUR INTERESTS</p>
                         <div className='link'>
                             <div className='link-tags'>
-                                <Link to="/">Ouestions</Link>
+                                <Link to="/">Go to Community</Link>
                             </div>
 
                         </div>
@@ -53,7 +53,7 @@ function Sidebar() {
                         <div className='link'>
                             <div className='link-tags'>
                                 <WorkIcon />
-                                <Link to="/">Compaines</Link>
+                                <Link to="/">Departments</Link>
                             </div>
 
                         </div>
